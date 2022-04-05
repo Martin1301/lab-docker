@@ -6,7 +6,7 @@
   "scripts": {
     "babel-node": "babel-node",
     "dev": "nodemon --exec npm run babel-node index.js",
-    "start": "node index.js"
+    "start": "nodemon --exec npm run babel-node index.js"
   },
   "keywords": [],
   "author": "",

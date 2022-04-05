@@ -8,6 +8,18 @@ const producto = [
     precio: "1500",
     cantidad: "2",
   },
+  {
+    id: 2,
+    nombre: "Celular LG",
+    precio: "780",
+    cantidad: "1",
+  },
+  {
+    id: 3,
+    nombre: "Laptop Asus",
+    precio: "5000",
+    cantidad: "2",
+  },
 ];
 /**
  * 

@@ -7,6 +7,16 @@ const cliente = [
     nombre: "Juan",
     apellido: "Peres",
   },
+  {
+    id: 2,
+    nombre: "Marcos",
+    apellido: "Lopez",
+  },
+  {
+    id: 3,
+    nombre: "Renato",
+    apellido: "Delgado",
+  },
 ];
 /**
  * 
